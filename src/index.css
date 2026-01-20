@@ -1,0 +1,56 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+/* @plugin "tailwindcss-textshadow"; */
+
+/* @layer components {
+  .links {
+    @apply text-2xl font-semibold text-blue-600 hover:text-red-400;
+  }
+} */
+
+@theme {
+  --color-primary: #3b32f6;
+  --my-gradient: linear-gradient(
+    0deg,
+    rgba(155, 42, 119, 1) 0%,
+    rgba(87, 93, 199, 0.42) 50%,
+    rgba(106, 237, 83, 1) 100%
+  );
+  /* bg-(image:--my-gradient) */
+
+  --font-poppins: Poppins, sans-serif;
+
+  --animate-wiggle: wiggle 1s ease-in-out infinite;
+  @keyframes wiggle {
+    0%,
+    100% {
+      transform: rotate(-3deg);
+    }
+    50% {
+      transform: rotate(3deg);
+    }
+  }
+}
+
+img {
+  width: 60%;
+}
+.img__logo {
+  max-width: 93px;
+  height: auto;
+}
+.img__product {
+  width: 30%;
+  height: auto;
+}
+
+@media (max-width: 1012px) and (min-width: 768px) {
+  img {
+    width: 40%;
+  }
+}
+@media (max-width: 768px) {
+  .img__product {
+    width: 60%;
+  }
+}
