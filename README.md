@@ -1,8 +1,8 @@
-**Online Shop - React E-Commerce Application**
+# **Online Shop - React E-Commerce Application**
 
 A modern, responsive e-commerce web application built with React and Vite. This project provides a clean foundation for an online shopping experience with fast development tooling and essential functionality.
 
-**🚀 Features**
+## **🚀 Features**
 
 Modern React Stack: Built with React 18 + Vite for optimal performance and development experience
 
@@ -12,7 +12,7 @@ Fast Refresh: Instant feedback during development with hot module replacement
 
 GitHub Actions: CI/CD pipeline configured for automated workflows
 
-**🛠️ Tech Stack**
+## **🛠️ Tech Stack**
 
 Frontend Framework: React 18
 
