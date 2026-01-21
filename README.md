@@ -1,8 +1,25 @@
-# React + Vite
+**Online Shop - React E-Commerce Application**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive e-commerce web application built with React and Vite. This project provides a clean foundation for an online shopping experience with fast development tooling and essential functionality.
 
-Currently, two official plugins are available:
+**🚀 Features**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Modern React Stack: Built with React 18 + Vite for optimal performance and development experience
+
+Responsive Design: Mobile-friendly interface that works across all devices
+
+Fast Refresh: Instant feedback during development with hot module replacement
+
+GitHub Actions: CI/CD pipeline configured for automated workflows
+
+**🛠️ Tech Stack**
+
+Frontend Framework: React 18
+
+Build Tool: Vite
+
+Language: JavaScript (94.4%)
+
+Styling: CSS (3.3%) + HTML (2.3%)
+
+Code Quality: ESLint
