@@ -8,8 +8,8 @@ A responsive e-commerce application built with React 18 and Vite. Browse a produ
 
 ## Screenshots
 
-> _Add 1–2 screenshots here: catalog page + product detail page_
-> _Tip: drag images directly into the GitHub editor_
+<img width="1699" height="1175" alt="2026 07 03 15-26-19" src="https://github.com/user-attachments/assets/2b402864-2ef6-4e4c-8363-b55f1b40f17f" />
+
 
 ---
 
